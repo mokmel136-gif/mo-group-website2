@@ -65,7 +65,7 @@
 
 **1. استنساخ المستودع**
 ```bash
-git clone https://github.com/mokmel136-gif/mo-group-website2.git
+git clone https://github.com/mokmel136-gif/mo-group-website.git
 cd mo-web-site
 ```
 
