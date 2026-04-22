@@ -66,7 +66,7 @@
 **1. استنساخ المستودع**
 ```bash
 git clone https://github.com/mokmel136-gif/mo-group-website2.git
-cd mo-web-site
+cd mo-web-site2
 ```
 
 **2. تثبيت الاعتماديات**
